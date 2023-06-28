@@ -1,3 +1,3 @@
-# ejercicio-1
+# Ejercicio básico de maquetación web
 
-Ejercicio básico de maquetación, curso Desarrollo Web Front End CIFO L'Hospitalet 
+Curso Desarrollo Web Front End CIFO L'Hospitalet 
